@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+ 
+ inp{
+    border: 2px solid rgb(255, 238, 0);
+border-bottom-color: green;
+border-radius: 5px;
+border-right-color: greenyellow;
+border-left-color: greenyellow;
+
+ }
+ button{
+    border: 2px solid rgb(255, 187, 1);
+border-bottom-color: rgb(255, 217, 0);
+border-radius: 5px;
+border-right-color: rgb(255, 196, 0);
+border-left-color: rgb(253, 228, 0);
+color:rgb(7, 255, 28);
+background-color: rgba(43, 226, 202, 0.514);
+  
+ }
